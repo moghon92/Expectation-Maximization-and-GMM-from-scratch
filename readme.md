@@ -1,5 +1,4 @@
-This is an implementation of E
-xpectation Maximizaton and Gussian Mixture model from scratch.
+This is an implementation of Expectation Maximizaton and Gussian Mixture model from scratch.
 
 ##  Expectation Maximization (EM)
  is an iterative algorithm used to estimate the parameters of statistical models, particularly when dealing with incomplete or missing data. It is commonly employed in situations where there are hidden or unobserved variables that affect the data generation process. The EM algorithm consists of two main steps: the E-step (Expectation step) and the M-step (Maximization step).
